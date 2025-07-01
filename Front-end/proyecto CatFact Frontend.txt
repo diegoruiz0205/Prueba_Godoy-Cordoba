@@ -1,0 +1,15 @@
+proyecto CatFact Frontend
+
+Crear un .env en la raíz del proyecto con la siguiente URL
+
+ VITE_API_URL="https://localhost:7245/CatFact/"
+
+Instalaciones 
+
+ Dependencias - npm install
+ Axios para llamadas HTTP - npm install axios
+ Manejo de rutas - npm install react-router-dom
+
+Ejecución
+
+comando npm run dev
