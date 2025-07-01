@@ -1,1 +1,7 @@
-Restaurar en una versión 2022 SQL Server
+Crear un usuario 
+ ApiGif
+Contraseña
+ Api2025*
+Permisos a la base APICatFacts
+
+Restaurar el backup en una versión 2022 SQL Server
