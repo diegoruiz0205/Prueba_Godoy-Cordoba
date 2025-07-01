@@ -1,0 +1,3 @@
+1) Descargar proyecto y abrirlo en visual Studio
+2) Asegurar que la cadena de conexión de la base de datos este correcta.
+3) El api key que se dio en un inicio en el pdf se venció así que utilice un api Key generado 
